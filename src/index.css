@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@theme {
+/* @theme {
   --color-lavirs-orange: #F97316;
   --color-lavirs-pink: #E8B4B8;
   --color-lavirs-green-:text-teal-900;
@@ -9,7 +9,6 @@
   --color-hover-blue:bg-blue-100;
 
   --color-gray:text-gray-500;
-  --color-rating:text-orange-600;
+  --color-rating:text-orange-600; } */
  
 
-}
